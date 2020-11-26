@@ -26,7 +26,7 @@ def replace_sounds(inFile,outFile,replace_dic):
         fOut.write("}")
 
    
-inFile = "en_US.txt"
+inFile = "ipa-dict-master\data\en_US.txt"
 outFile = "dictionary.py"
 replace_dic = replaceDict.rep
 

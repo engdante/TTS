@@ -35,7 +35,7 @@ def get_sounds(inFile,outFile):
             fOut.write("{0}\n".format(line[1]))
 
    
-inFile = "en_US.txt"
+inFile = "ipa-dict-master\data\en_US.txt"
 outFile = "temp.txt"
 repDict = "replaceDict.py"
 
