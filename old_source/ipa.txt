@@ -1,0 +1,84 @@
+    b	buy, cab
+    d	dye, cad, ladder[3]
+        dj	dew[4]
+        dʒ	giant, badge
+    ð	thy, breathe, father
+    f	fan, leaf
+    ɡ	guy, bag
+    h	high, ahead
+        hw	whine[5]
+    j [6]	yes, hallelujah
+    k	sky, crack
+    l	lie, sly, gal[7]
+        lj	lute[4]
+    m	my, smile, cam
+    n	nigh, snide, can
+        nj	new[4]
+    ŋ	sang, sink, singer
+    p	pie, spy, cap
+    r [8]	rye, try, very
+    s	sigh, mass
+        sj	consume[4]
+    ʃ	shy, cash, emotion
+    t	tie, sty, cat, latter[3]
+        tj	tune[4]
+        tʃ	China, catch
+    θ	thigh, math
+        θj	enthuse[4]
+    v	vine, leave
+    w	wine, swine
+    z	zoo, has
+        zj	Zeus[4]
+    ʒ	pleasure, beige[9]
+    x	ugh, loch, Chanukah[10]
+    ʔ	uh-oh /ˈʔʌʔoʊ/
+    ɒ̃	bon vivant[11]
+    æ̃	fin de siècle[11]
+        ɜː	Möbius (UK only)[12]
+        ɑː	PALM, bra
+    ɑːr	START
+    ɒ	LOT, blockade[14]
+        ɒr	moral[15]
+    æ	TRAP, tattoo[16]
+        ær	marry[17]
+        aɪ	PRICE, pie[18]
+                aɪər	hire[19]
+                    aɪ.ər	higher[20]
+        aʊ	MOUTH, how[18]
+                aʊər	flour[19]
+                    aʊ.ər	flower[20]
+    ɛ	DRESS, prestige[21]	ɛr	merry[17]
+        eɪ	FACE	ɛər	SQUARE, Mary[17][22]
+                eɪər	player[20]
+    ɪ	KIT, historic[23]	ɪr	mirror
+        iː	FLEECE, pedigree, idea[24]	ɪər	NEAR, serious[22]
+                iːər	freer
+        oʊ	GOAT[25][23]
+                oʊər	mower
+        ɔː	THOUGHT[26]	ɔːr	NORTH, FORCE[27]
+                ɔːər	sawer
+        ɔɪ	CHOICE	
+                ɔɪər	coir[19]
+                    ɔɪ.ər	employer[20]
+    ʊ	FOOT
+    ʊr	courier
+        uː	GOOSE, cruel[24]
+    ʊər	tour, CURE (/ˈkjʊər/)[22][28]
+                    uːər	truer
+    ʌ	STRUT, untidy, trustee[29][30]
+            ɜːr	NURSE, blurry, urbane, foreword[31]
+        ʌr	hurry[32]
+    ə	COMMA, addition, abbot
+        ər	LETTER, forward, history[33]
+    ɪ	edition, rabbit, Latin, heating[23][34]
+        oʊ	motto, retroactive, follower[23][35]
+    i	HAPPY, mediocre[36]
+        iə	California[37]
+    u	fruition[35][36]
+        uə	influence[38]
+        əl	bottle (either [əl] or [l̩])
+        ən	button (either [ən] or [n̩])
+        əm	rhythm (either [əm] or [m̩])
+ˈ	intonation /ˌɪntəˈneɪʃən/
+.	/ˈhaɪər/ hire, /ˈhaɪ.ər/ higher[40]
+ˌ
