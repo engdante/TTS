@@ -1,7 +1,6 @@
 import sys
-import io
-
 import os
+import io
 
 def makeReplaceDict(inFile,outFile):
     file = io.open(inFile, mode="r", encoding="utf-8")
@@ -37,7 +36,7 @@ def get_sounds(inFile,outFile):
    
 inFile = "ipa-dict-master\data\en_US.txt"
 outFile = "temp.txt"
-repDict = "replaceDict.py"
+repDict = "ReplaceDict.py"
 
 if os.path.exists(outFile):
     os.remove(outFile)
